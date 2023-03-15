@@ -1,0 +1,19 @@
+package bubble.test.ex02;
+
+import javax.swing.JFrame;
+
+public class BubbleFrame extends JFrame {
+	
+	public BubbleFrame() {
+		setSize(1000, 640);
+		setLayout(null); //absoulte 레이아웃 (자유롭게)
+		setLocationRelativeTo(null); // JFrame 창이 가운데 뜨도록
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // X버튼으로 창을 끌 때 JVM 같이 종료하기
+		setVisible(true);
+	}
+	
+	public static void main(String[] args) {
+		new BubbleFrame();
+	}
+
+}
