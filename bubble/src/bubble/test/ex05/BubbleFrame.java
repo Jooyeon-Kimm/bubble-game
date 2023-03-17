@@ -53,14 +53,12 @@ public class BubbleFrame extends JFrame {
 					if(!player.isLeft()) {
 						player.left();
 					}
-					player.left();
 					break;
 					
 				case KeyEvent.VK_RIGHT:
 					if(!player.isRight()) {
 						player.right();
 					}
-					player.right();
 					break;
 					
 				case KeyEvent.VK_UP:
