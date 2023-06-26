@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="lombok.Data"/>
     <fullyQualifiedTypeName name="javax.swing.JFrame"/>
-    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
-    <fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
     <fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
     <fullyQualifiedTypeName name="java.awt.event.KeyAdapter"/>
     <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
-    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+    <fullyQualifiedTypeName name="bubble.test.ex11.Moveable"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="bubble.test.ex12.BackgroundBubbleService"/>
 </qualifiedTypeNameHistroy>

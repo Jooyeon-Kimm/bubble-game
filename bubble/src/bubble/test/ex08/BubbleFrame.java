@@ -67,9 +67,6 @@ public class BubbleFrame extends JFrame {
 					}
 					break;
 					
-//				case KeyEvent.VK_DOWN:
-//					player.down();
-//					break;
 				}
 			}
 			
